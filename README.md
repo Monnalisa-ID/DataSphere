@@ -3,7 +3,7 @@
 [English Version Below](#english-version) | [Versi Bahasa Indonesia di Bawah](#bahasa-indonesia)
 
 ---
-
+<img src="https://github.com/Monnalisa-ID/Ai-Change-Background/blob/main/Ai-ChangeBackground.png"/>
 ## <a name="english-version"></a>🇬🇧 English Version
 
 DataSphere is a premium, interactive Enterprise Business Intelligence (BI) dashboard and cybersecurity simulation playground. It showcases real-time mock data synchronization across open tabs, custom canvasless vector charting, granular Role-Based Access Control (RBAC), and interactive web exploit vulnerability mitigation triggers.
